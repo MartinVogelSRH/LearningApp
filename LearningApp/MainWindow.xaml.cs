@@ -23,6 +23,52 @@ namespace LearningApp
         public MainWindow()
         {
             InitializeComponent();
+
+            Topic dummyTopic = new Topic()
+            {
+                title = "Dummy title",
+                description = "Dummy description",
+                principles = new List<Principles>()
+                {
+                    new Principles()
+                    {
+                        header = "Dummy Header",
+                        principleDetails = new List<PrincipleDetails>()
+                        {
+                            new PrincipleDetails()
+                            {
+                                description = "Dummy description principle details",
+                                image = "Dummy Image.jpg"
+                            },
+                            new PrincipleDetails()
+                            {
+                                description = "Dummy description principle details2",
+                                image = "Dummy Image2.jpg"
+                            }
+                        }
+                    },
+                    new Principles()
+                    {
+                        header = "Dummy Header2",
+                        principleDetails = new List<PrincipleDetails>()
+                        {
+                            new PrincipleDetails()
+                            {
+                                description = "Dummy description principle details3",
+                                image = "Dummy Image3.jpg"
+                            },
+                            new PrincipleDetails()
+                            {
+                                description = "Dummy description principle details4",
+                                image = "Dummy Image4.jpg"
+                            }
+                        }
+                    }
+                }
+            };
+            MyStorage.storeXML<Topic>(dummyTopic, "Topic.xml");
+
+
         }
     }
 }

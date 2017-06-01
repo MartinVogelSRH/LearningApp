@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<Topic xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <title>Dialogue principles</title>
+  <description>General ergonomic principles which apply to the design of dialogues between humans and information systems
+    ISO 9241 part 110</description>
+  <principles>
+    <Principles>
+      <header>Suitability for the task</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>supports the user to do his work task effectively and efficiently</description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Necessary functionalities available</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Defaults provided and overwriteable</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Suitability for learning</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>guides the user through the learning stages </description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>minimizing the learning time</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Recognizing instead of memorizing</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Suitability for individualisation</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>system is constructed to allow for modification to the user’s needs and skills for a given task</description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Modifiable extent (amount) of explanations</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Chosing a start point or modul at the begining</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Conformity with user expectations</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>Conformity with user expectations</description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>it is not restricted to computer systems but also connects the application to the real world</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Stick to standards. It is great to have creative developer, but there should be limits to creativity</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Don’t change positions of dialog elements, logos and similar things on masks</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Self descriptiveness</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>user can obtain an explanations about the application and scope of the dialog system on demand</description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>dialog step is immediately clear</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Feedback</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Controllability</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>user is able to start the dialog process and influence its direction and speed until the target is reached</description>
+          <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Cancellation of actions (undo / redo)</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Cancel and resume the Dialog</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+    <Principles>
+      <header>Error tolerance</header>
+      <principleDetails>
+        <PrincipleDetails>
+          <description>despite evident errors in input, the intended result my be achieved with either no or minimal corrective action having to be taken</description>
+            <image>Dummy Image.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Using Preventive ways to to help input values</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+        <PrincipleDetails>
+          <description>Provide input values which users can select from</description>
+          <image>Dummy Image2.jpg</image>
+        </PrincipleDetails>
+      </principleDetails>
+    </Principles>
+  </principles>
+</Topic>
